@@ -10,7 +10,7 @@ I've been working with data for the last 15 years or so, and currently use SAP/B
 
 Chipy hosted a kick-off dinner for the start of the program. Again, I didn't know what to expect. There was no order to the mix-and-mingle; we sat, ate and great conversation ensued. Ever so often, the program managers would switch us around, and we'd continue. Midway, we stopped to receive a rundown of the program, after which we could stay and get to know our fellow cohort some more. I got a chance to meet my mentor. I briefly mentioned my conundrum, should I do a fun project, or should I do a practical project? The pragmatic in me won, and I decided to solve a data problem, which has been bugging me at work for quite a while. I was familiar with the domain, and I knew I could work on it incrementally. It was a project with a doable minimum viable product I could do within the timeline. I'm also trying to learn R and then there are the video games...sssshhhh, our secret :wink: It was also a project that would touch on most of the things I need to dive deeper on in order to continue my work after the program ends--Python, Pandas and Notebook, Oh my!
 
-Week 1 9/3/18 Monday, Sept 3 Mentor/Mentee 1-on-1
+### Week 1 9/3/18 Monday, Sept 3 Mentor/Mentee 1-on-1
 
 Agenda: Discuss New Product Development & Vitality Index Project 
 
@@ -43,7 +43,7 @@ Resources:
 [Kevin Markham - Using pandas for Better (and Worse) Data Science - PyCon 2018] (https://www.youtube.com/watch?v=0hsKLYfyQZc)
 [IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017] 9https://www.youtube.com/watch?v=VQBZ2MqWBZI)
 
-Week 2 9/10/18 Monday, Sept 10 Mentor/Mentee 1-on-1
+### Week 2 9/10/18 Monday, Sept 10 Mentor/Mentee 1-on-1
 
 Agenda: Discuss Week 1 Next Steps and Deliverables
 
@@ -59,7 +59,7 @@ Thursday, Sept 13 ChiPy (optional)
 
 Deliverables: Head-shot Due
 
-Week 3 9/17/18 Monday, Sept 17 Mentor/Mentee 1-on-1
+### Week 3 9/17/18 Monday, Sept 17 Mentor/Mentee 1-on-1
 
 Agenda: Discuss Week 2 Next Steps and Deliverables
 
