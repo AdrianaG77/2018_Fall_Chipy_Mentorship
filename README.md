@@ -1,4 +1,4 @@
-#The Luck of the Procrastinator, or How I Spent My Fall Vacation.
+The Luck of the Procrastinator, or How I Spent My Fall Vacation.
 
 Like most; I’m inundated with email, the day before Chipy's Fall 2018 Mentorship Program application deadline, a subject line caught my eye. Last Chance! I thought, if this is my last chance, how on earth did I miss my first? I clicked to learn all about it, and without hesitation, I thought "why not?" I had no great expectations I'd be selected. I find great expectations often lead to severe disappointment, it's the mantra which supports my flight-by-seat-of-pants lifestyle. When I received the acceptance email, I was pleasantly surprised, until it sunk in seconds later...there go my lazy fall afternoons playing Skyrim. But it's exactly what I need, structure—I need method to my madness.
 
