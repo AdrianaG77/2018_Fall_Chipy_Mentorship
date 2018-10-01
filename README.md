@@ -37,7 +37,8 @@ Python script | Executable | Web Service/Web part on SharePoint
 Phase 5 Data Integration
 
 
-Next Steps: Get familiar with Anaconda Nav, Notebook & Pandas Deliverables: Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas
+Next Steps: Get familiar with Anaconda Nav, Notebook & Pandas
+Deliverables: Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas
 Resources:
 [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015] (https://www.youtube.com/watch?v=5JnMutdy6Fw)
 [Kevin Markham - Using pandas for Better (and Worse) Data Science - PyCon 2018] (https://www.youtube.com/watch?v=0hsKLYfyQZc)
