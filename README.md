@@ -4,7 +4,7 @@ Like most; I’m inundated with email, the day before Chipy's Fall 2018 Mentorsh
 
 I've been working with data for the last 15 years or so, and currently use SAP/BW, SQL Server, Informatica and Tableau at my job. My CS curriculum was in Java, but I haven't used it much since graduating. I've been dipping my toes in Python and R for data cleaning, and planned on exploring Python for automation, pipelining and testing for the ETL we do at my company. Chipy’s program came to my attention at an opportune time, since I struggle to make headway without an end goal during my free time. We use enterprise tools at my job, so I explore open source on my own time. I've never had a mentor, unless you count my keyboard. It’s not very responsive, and makes no-sense when I bang my head against it. Passing along what I've learned has always brought me great satisfaction, so I figured it is my duty to pay it forward to some lucky mentor.
 
-So here goes nothing, or Dear Diary (Project Management Edition) 
+## So here goes nothing, or Dear Diary (Project Management Edition) 
 
 Kickoff Dinner 8/27/18
 
@@ -37,7 +37,9 @@ Python script | Executable | Web Service/Web part on SharePoint
 Phase 5 Data Integration
 
 
-Next Steps: Get familiar with Anaconda Nav, Notebook & Pandas Deliverables: Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas Resources: Brandon Rhodes - Pandas From The Ground Up - PyCon 2015 https://www.youtube.com/watch?v=5JnMutdy6Fw Kevin Markham - Using pandas for Better (and Worse) Data Science - PyCon 2018 https://www.youtube.com/watch?v=0hsKLYfyQZc IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017 https://www.youtube.com/watch?v=VQBZ2MqWBZI
+Next Steps: Get familiar with Anaconda Nav, Notebook & Pandas Deliverables: Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas
+Resources: [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015] (https://www.youtube.com/watch?v=5JnMutdy6Fw)
+Kevin Markham - Using pandas for Better (and Worse) Data Science - PyCon 2018 https://www.youtube.com/watch?v=0hsKLYfyQZc IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017 https://www.youtube.com/watch?v=VQBZ2MqWBZI
 
 Week 2 9/10/18 Monday, Sept 10 Mentor/Mentee 1-on-1
 
