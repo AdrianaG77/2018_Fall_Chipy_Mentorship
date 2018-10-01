@@ -15,6 +15,7 @@ Chipy hosted a kick-off dinner for the start of the program. Again, I didn't kno
 Agenda: Discuss New Product Development & Vitality Index Project 
 
 Discussion: I met Jim J. at the agreed upon bat time and channel to go over "The Project." Ah, it seemed so simple at the time. In my experience, once you start coding logic, the wrenches start flying, but I have honed the skill of dodging wrenches. I felt we were in a good spot, one of the benefits of picking a practical project is less time is wasted agonizing over what data set to use or what questions to ask and answer. I like to pace myself; for a procrastinator, I am extremely disciplined under pressure. One of my favorite thoughts on learning is by yo-yo ma, something along the lines of learning incrementally and consistently, makes learning fun and painless. Um, does this apply to coding?
+
 Phase 1 - Data Pipeline
 
 Minimum Viable Product:
@@ -40,9 +41,9 @@ Phase 5 Data Integration
 Next Steps: Get familiar with Anaconda Nav, Notebook & Pandas
 Deliverables: Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas
 Resources:
-[Brandon Rhodes - Pandas From The Ground Up - PyCon 2015] (https://www.youtube.com/watch?v=5JnMutdy6Fw)
-[Kevin Markham - Using pandas for Better (and Worse) Data Science - PyCon 2018] (https://www.youtube.com/watch?v=0hsKLYfyQZc)
-[IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017] 9https://www.youtube.com/watch?v=VQBZ2MqWBZI)
+[Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
+[Kevin Markham - Using pandas for Better (and Worse) Data Science - PyCon 2018](https://www.youtube.com/watch?v=0hsKLYfyQZc)
+[IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
 
 ### Week 2 9/10/18 Monday, Sept 10 Mentor/Mentee 1-on-1
 
