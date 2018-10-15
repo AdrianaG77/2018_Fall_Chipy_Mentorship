@@ -90,7 +90,7 @@ Thursday, Sept 20 Data Science Coding Workshop - Blog 1 Due
 
 Discussion: Today was the first of three coding workshops for the mentorship program. I learned the general programming workshop originally scheduled for today was swapped for the Data Science workshop.  I was really looking forward to it, as data science is the track I am most interested in.  I arrived at Braintree around 15 minutes late, d’oh! (I work in Des Plaines, and have to get home and hop on the brown line).  Again, I didn't know what to expect and missed what I believe was a brief explanation of this week's project. The project was a bit more webdevy than data science. I had expected a project along the lines of exploring a dataset, asking/answering questions, and perhaps an intro into pandas or visualization.  No bother; it was an opportunity to learn none the less, as they broke us up into working groups.  We worked off of one computer, the assignment required setting up an environment, and folks had a blend of Windows, Mac and Linux.  I use Anaconda exclusively for now, at least on my work laptop.  I got a chance to learn about kwargs, which oddly enough sounded like Klingon to me, majQa’!
 
-The first blog post was also due today by midnight, I had hoped to use GitHub and wanted to make sure I could. I didn't want to use a blogging site, simply because I underutilize GitHub and wanted to get more experience.  I later learned a Slack channel was created specifically for this cohort’s blog posts.  Anytime I embark on an ogre of a tech project, I find it consists of layers of skills to learn.  When you peel one off, I find there is another skill underneath I need to learn to move forward. One of these simple, but necessary skills was markdown. Markdown is a lightweight markup language with plain text formatting syntax. I also learned of Github.io (previously GitHub pages) which can be formatted with Jekyll themes; which I applied.  I found they didn't always render my markdown accordingly, though.  Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder. 
+The first blog post was also due today by midnight, I had hoped to use GitHub and wanted to make sure I could. I didn't want to use a blogging site, simply because I underutilize GitHub and wanted to get more experience.  I later learned a Slack channel was created specifically for this cohort’s blog posts.  Now I know, and knowing is half the battle.  Anytime I embark on an ogre of a tech project, I find it consists of layers of skills to learn.  When you peel one off, I find there is another skill underneath I need to learn to move forward. One of these simple, but necessary skills was markdown. Markdown is a lightweight markup language with plain text formatting syntax. I also learned of Github.io (previously GitHub pages) which can be formatted with Jekyll themes; which I applied.  I found they didn't always render my markdown accordingly, though.  Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder. 
 
 Deliverables: Blog Post 1
 
@@ -100,8 +100,12 @@ Week 4 9/24/18
 
 Week 5 10/1/18
 
-Week 6 10/8/18 Thursday, Oct 11 ChiPy (optional)
+Week 6 10/8/18
 
-Week 7 10/15/18 Thursday, Oct 18 Webdev Coding Workshop- Blog 2 Due
+Thursday, Oct 11 ChiPy (optional)
+
+Week 7 10/15/18
+
+Thursday, Oct 18 Webdev Coding Workshop- Blog 2 Due
 
 
