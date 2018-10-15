@@ -42,7 +42,7 @@ Next Steps:<br><br>
   Get familiar with Anaconda Nav, Notebook & Pandas<br><br>
 Deliverables:<br><br>
   Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas<br><br>
-Resources:<br><br>
+Resources:
 
 [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
 
