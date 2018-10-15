@@ -16,15 +16,15 @@ Agenda: Discuss New Product Development & Vitality Index Project
 
 Discussion: I met Jim J. at the agreed upon bat time and channel to go over "The Project." Ah, it seemed so simple at the time. In my experience, once you start coding logic, the wrenches start flying, but I have honed the skill of dodging wrenches. I felt we were in a good spot, one of the benefits of picking a practical project is less time is wasted agonizing over what data set to use or what questions to ask and answer. I like to pace myself; for a procrastinator, I am extremely disciplined under pressure. One of my favorite thoughts on learning is by yo-yo ma, something along the lines of learning incrementally and consistently, makes learning fun and painless. Um, does this apply to coding?
 
-Phase 1 - Data Pipeline
+&nbsp;&nbsp;&nbsp;&nbsp;Phase 1 - Data Pipeline
 
-Minimum Viable Product:
-De-dup a dataset of materials based on a set of criteria for N rolling years.
-Include records where first instance Previous Status = New & New Status = Active
-Exclude records where Previous Status = Null
-Exclude records where last instance New Status = Inactive | Discontinued
-Create Python Script: Arguments - Date (N Years) Materials.csv, Purchases.csv, Exclusions.csv
-Calculate Vitality Index
+&nbsp;&nbsp;&nbsp;&nbsp;Minimum Viable Product:
+*  De-dup a dataset of materials based on a set of criteria for N rolling years.
+*  Include records where first instance Previous Status = New & New Status = Active
+*  Exclude records where Previous Status = Null
+*  Exclude records where last instance New Status = Inactive | Discontinued<br><br>
+Create Python Script: Arguments - Date (N Years) Materials.csv, Purchases.csv, Exclusions.csv<br><br>
+Calculate Vitality Index<br><br>
 Blog Medium | Notebook on Github Can you guess which one won?
 
 Phase 2 Data Validation
@@ -38,11 +38,11 @@ Python script | Executable | Web Service/Web part on SharePoint
 Phase 5 Data Integration
 
 
-Next Steps:
-  Get familiar with Anaconda Nav, Notebook & Pandas
-Deliverables:
-  Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas
-Resources:
+Next Steps:<br><br>
+  Get familiar with Anaconda Nav, Notebook & Pandas<br><br>
+Deliverables:<br><br>
+  Set-up Anaconda, Python 3 Environment, Create Project Notebook & Explore dataset using Pandas<br><br>
+Resources:<br><br>
 
 [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
 
@@ -54,7 +54,7 @@ Resources:
 
 Agenda: Discuss Week 1 Next Steps and Deliverables
 
-Discussion: We trouble-shooted publishing the project notebook on Anaconda cloud. I love Anaconda, it's the next best thing since sliced bread! It lets folks dive right into coding without the barrier and headache of setting up your environment and getting your libraries to work. We coded the first condition in Pandas, "Include records where first instance Previous Status = New" and called it a day.
+Discussion: We trouble-shooted publishing the project notebook on Anaconda cloud. I love Anaconda, it's the next best thing since sliced bread! It lets folks dive right into coding without the barrier and headache of setting up your environment and getting your packages to work. We coded the first condition in Pandas, "Include records where first instance Previous Status = New" and called it a day.
 
 Next Steps: Start working on Blog 1
 
@@ -70,7 +70,9 @@ Deliverables: Head-shot Due
 
 Agenda: Discuss Week 2 Next Steps and Deliverables
 
-Discussion: While exploring the data I realized I was overthinking some of the criteria. Since the first step was to identify materials, which had become active at some point, I didn't need to worry about the previous status. The issue with identifying NPD materials is that the creation date in SAP can happen much earlier to the time when a material becomes sellable, i.e. is in active status. To further complicate things, the material status can flip-flop throughout its lifetime. Materials which have been discontinued or were inactive, can be resurrected—these I refer to as zombie parts. We have a BW table that is written to any time the status changes, materials are hence, almost duplicates (except for the change date), which means they are slightly unique. We later found the other condition, exclude materials whose current status in inactive or discontinued, contained materials which were never activated in the first place, go figure. We also reviewed reading the date fields in the csv as dates; we would need them to be dates once we coded the N Rolling years part, and also to de-dup based on the earliest date, and exclude based on the latest date.
+Discussion: While exploring the data I realized I was overthinking some of the criteria. Since the first step was to identify materials, which had become active at some point, I didn't need to worry about the previous status. The issue with identifying NPD materials is that the creation date in SAP can happen much earlier to the time when a material becomes sellable, i.e. is in active status. To further complicate things, the material status can flip-flop throughout its lifetime. Materials which have been discontinued or were inactive, can be resurrected—these I refer to as zombie parts. We have a BW table that is written to any time the status changes, materials are hence, almost duplicates (except for the change date), which means they are slightly unique. 
+
+We later found the other condition, exclude materials whose current status in inactive or discontinued, contained materials which were never activated in the first place, go figure. We also reviewed reading the date fields in the csv as dates; we would need them to be dates once we coded the N Rolling years part, and also to de-dup based on the earliest date, and exclude based on the latest date.
 
 Next Steps: Explore the to_datetime method, continue working on Blog 1
 
