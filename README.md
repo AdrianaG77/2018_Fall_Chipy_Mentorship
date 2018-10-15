@@ -92,6 +92,8 @@ Discussion: Today was the first of three coding workshops for the mentorship pro
 
 The first blog post was also due today by midnight, I had hoped to use GitHub and wanted to make sure I could. I didn't want to use a blogging site, simply because I underutilize GitHub and wanted to get more experience.  I later learned a Slack channel was created specifically for this cohort’s blog posts.  Anytime I embark on an ogre of a tech project, I find it consists of layers of skills to learn.  When you peel one off, I find there is another skill underneath I need to learn to move forward. One of these simple, but necessary skills was markdown. Markdown is a lightweight markup language with plain text formatting syntax. I also learned of Github.io (previously GitHub pages) which can be formatted with Jekyll themes; which I applied.  I found they didn't always render my markdown accordingly, though.  Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder. 
 
+Deliverables: Blog Post 1
+
 Resources: https://jekyllrb.com/
 
 Week 4 9/24/18
