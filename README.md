@@ -82,7 +82,7 @@ Deliverables: Work on reading the date fields as dates
 
 Resources: https://talkpython.fm/episodes/show/156/python-history-and-perspectives
 
-To be continued…
+![To be continued…](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/tbc.png)
 
 # Talking, is how people grow to understand each other ~ Dadisms
 
