@@ -62,6 +62,8 @@ Deliverables: Share notebook on Anaconda Cloud & continue coding criteria.
 
 Resources:
 
+http://docs.anaconda.com/anaconda-cloud/user-guide/tasks/work-with-notebooks/
+
 Thursday, Sept 13 ChiPy (optional)
 
 Deliverables: Head-shot Due
@@ -81,3 +83,21 @@ Deliverables: Work on reading the date fields as dates
 Resources: https://talkpython.fm/episodes/show/156/python-history-and-perspectives
 
 To be continued…
+
+# Talking, is how people grow to understand each other ~ Dadisms
+
+Thursday, Sept 20 Data Science Coding Workshop - Blog 1 Due
+
+Discussion: Today was the first of three coding workshops for the program. I learned the general programming workshop originally scheduled for today was swapped for the Data Science workshop.  I was really looking forward to it, as data science is the track I am most interested in.  I arrived at Braintree around 15 minutes late, d’oh! (I work in Des Plaines, and have to get home and hop on the brown line).  Again, I didn't know what to expect and missed what I believe was a brief explanation of the project. The project was a bit more webdevy than data science. I had expected an assignment along the lines of exploring a dataset, asking/answering questions, and perhaps an intro into pandas or visualization.  No bother, it was an opportunity to learn none the less, as they broke us up into working groups.  We worked off of one computer, the assignment required setting up an environment, and folks had a blend of Windows, Mac and Linux.  I use Anaconda exclusively for now, at least on my work laptop.  I got a chance to learn about kwargs, which oddly enough sounded like Klingon to me, majQa’!
+
+
+
+Week 4 9/24/18
+
+Week 5 10/1/18
+
+Week 6 10/8/18 Thursday, Oct 11 ChiPy (optional)
+
+Week 7 10/15/18 Thursday, Oct 18 Webdev Coding Workshop- Blog 2 Due
+
+
