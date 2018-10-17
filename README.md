@@ -109,7 +109,7 @@ https://www.cookcountystatesattorney.org/about/h4ck1ng-4-just1c3
 Agenda: Discuss Week 3 Next Steps and Deliverables
 
 Discussion: Interestingly enough, I spent the week exploring Python's to_datetime method as well as R's Lubridate package.
-![todate](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/todate.png)<br><br>
+![todate](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/todate.png) Qapla'!<br><br>
 Not too shaby--the rest of the time, I spent playing with Pandas. I love dipping my toes in both camps, though I can honestly say Pandas is the bee’s knees!
 Once I solidified my functions conceptually, I sketched them out in my handy, dandy notebook and serial killer chicken scratch.  This is the second version, you dont' want to see the first.
 
