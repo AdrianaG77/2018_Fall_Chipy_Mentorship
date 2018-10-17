@@ -98,7 +98,7 @@ Resources: https://jekyllrb.com/
 
 ### Week 4 9/24/18
 
-Discussion: This past weekend I attended the Cook County States Attorney's Office workshop, Hacking for Justice.  It was a two day event, Saturday (8am - 8pm) and Sunday (8am - 5pm) focused on exploring SAO's public case-level data.  It introduced critical R skills like data cleaning, graphing, and descriptive statistics. As such, I did not meet with my mentor this week, I normally work on my project on the weekend.  The cool thing about programming is finding a blend of best tools for the job, no matter the language.  
+Discussion: This past weekend I attended the Cook County States Attorney's Office workshop, Hacking for Justice.  It was a two day event, Saturday (8am - 8pm) and Sunday (8am - 5pm) focused on exploring SAO's public case-level data.  It introduced critical R skills like data cleaning, graphing, and descriptive statistics. As such, I did not meet with my mentor this week, I normally work on my project on the weekend.  The cool thing about programming is finding a blend of best tools for the job, no matter the language. Dplyr is pretty sweet, and so is the Tidyverse.
 
 ![Hacking for Justice](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/ccsaohfj.jpg)
 
@@ -108,13 +108,19 @@ https://www.cookcountystatesattorney.org/about/h4ck1ng-4-just1c3
 ### Week 5 10/1/18
 Agenda: Discuss Week 3 Next Steps and Deliverables
 
-Discussion: 
+Discussion: Interestingly enough, I spent the week exploring Python's to_datetime method as well as R's Lubridate package.  I love dipping my toes in both camps, though I can honestly say Pandas is the bee’s knees! We discussed data validation, in particular handling null values. Jim also suggested using list comprehensions to replace spaces with underscores in headers after reading a csv file.
+
+*A list comprehension is a syntactic construct available in some programming languages for creating a list based on existing lists. It follows the form of the mathematical set-builder notation (set comprehension) as distinct from the use of map and filter functions. ~Wikipedia
+
+
+
 
 Next Steps: 
 
-Deliverables:  
-
+Deliverables:   
+ 
 Resources:
+https://www.datacamp.com/community/tutorials/python-list-comprehension
 
 
 
