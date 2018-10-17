@@ -113,7 +113,7 @@ Discussion: Interestingly enough, I spent the week exploring Python's to_datetim
 *A list comprehension is a syntactic construct available in some programming languages for creating a list based on existing lists. It follows the form of the mathematical set-builder notation (set comprehension) as distinct from the use of map and filter functions. ~Wikipedia
 
 
-
+![functions](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/functions.jpg)
 
 Next Steps: 
 
