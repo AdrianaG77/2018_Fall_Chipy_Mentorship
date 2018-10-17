@@ -108,18 +108,17 @@ https://www.cookcountystatesattorney.org/about/h4ck1ng-4-just1c3
 ### Week 5 10/1/18
 Agenda: Discuss Week 3 Next Steps and Deliverables
 
-Discussion: Interestingly enough, I spent the week exploring Python's to_datetime method as well as R's Lubridate package.
-![todate](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/todate.png) Qapla'!<br><br>
-Not too shaby--the rest of the time, I spent playing with Pandas. I love dipping my toes in both camps, though I can honestly say Pandas is the bee’s knees!
-Once I solidified my functions conceptually, I sketched them out in my handy, dandy notebook and serial killer chicken scratch.  This is the second version, you dont' want to see the first.
-
+Discussion: Interestingly enough, I spent the week exploring Python's to_datetime method as well as R's Lubridate package; I love dipping my toes in both camps.
+![todate](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/todate.png) Qapla'! Not too shabby.
+The rest of the time, I spent playing with Pandas. I can honestly say Pandas is the bee’s knees!
+Once I figured out my functions conceptually, I sketched them out in my handy, dandy notebook and serial killer chicken scratch.  This is the second version;  you don't want to see the first.
 ![functions](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/functions.jpg)
 
 We discussed data validation, in particular handling null values. Jim also suggested using list comprehensions to replace spaces with underscores in headers after reading a csv file.
 
 *A list comprehension is a syntactic construct available in some programming languages for creating a list based on existing lists. It follows the form of the mathematical set-builder notation (set comprehension) as distinct from the use of map and filter functions. ~Wikipedia*
 
-Next Steps: 
+Next Steps:
 
 Deliverables:   
  
