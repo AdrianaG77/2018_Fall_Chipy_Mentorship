@@ -138,9 +138,9 @@ https://poppler.freedesktop.org/
 
 Thursday, Oct 11 ChiPy (optional)
 
-Week 7 10/15/18
+### Week 7 10/15/18 Monday, October 15th Mentor/Mentee 1-on-1
 
+Agenda: Discuss Week 5 Next Steps and Deliverables
 
-Thursday, Oct 18 Webdev Coding Workshop- Blog 2 Due
-
+![To be concluded...](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/tbc.jpg)
 
