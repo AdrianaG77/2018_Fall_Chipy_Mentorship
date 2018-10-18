@@ -96,7 +96,7 @@ Deliverables: Blog Post 1
 
 Resources: https://jekyllrb.com/
 
-### Week 4 9/24/18
+### Week 4 9/24/18 Saturday & Sunday September 22nd - 23rd Hacking for Justice Workshop
 
 Discussion: This past weekend I attended the Cook County States Attorney's Office workshop, Hacking for Justice.  It was a two day event, Saturday (8am - 8pm) and Sunday (8am - 5pm) focused on exploring SAO's public case-level data.  It introduced critical R skills like data cleaning, graphing, and descriptive statistics. As such, I did not meet with my mentor this week, I normally work on my project on the weekend.  The cool thing about programming is finding a blend of best tools for the job, no matter the language. Dplyr is pretty sweet, and so is the Tidyverse.
 
@@ -105,7 +105,7 @@ Discussion: This past weekend I attended the Cook County States Attorney's Offic
 Resources:
 https://www.cookcountystatesattorney.org/about/h4ck1ng-4-just1c3
 
-### Week 5 10/1/18
+### Week 5 10/1/18 Monday, October 1st Mentor/Mentee 1-on-1
 Agenda: Discuss Week 3 Next Steps and Deliverables
 
 Discussion: I spent the week exploring Python's to_datetime method as well as R's Lubridate package; I love dipping my toes in both camps.
