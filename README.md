@@ -126,7 +126,9 @@ Deliverables: Start writing functions
 Resources:
 https://www.datacamp.com/community/tutorials/python-list-comprehension
 
-Week 6 10/8/18
+### Week 6 10/8/18
+
+Discussion: Unfortunatly, I am no longer off on Mondays, so I couldn't meet with my mentor this morning.  We later settled on Monday evenings instead, and agreed to meet next Monday.  In the meantime, I've been working on Blog 2. I'm now getting the hang of markdown and adding some extra stuffs--nothing too fancy.
 
 Thursday, Oct 11 ChiPy (optional)
 
