@@ -124,15 +124,18 @@ Next Steps: Read up on list comprehensions.
 Deliverables: Start writing functions   
  
 Resources:
+
 https://www.datacamp.com/community/tutorials/python-list-comprehension
 
 ### Week 6 10/8/18
 
-Discussion: Unfortunatly, I am no longer off on Mondays, so I couldn't meet with my mentor this morning.  We later settled on Monday evenings instead, and agreed to meet next Monday after work.  In the meantime, I've been working on Blog 2. I'm now getting the hang of markdown and adding some extra stuffs--nothing too fancy.  My pictures and emojiis don't work in Jekyll though. I've pretty much finished the core functions I outlined, so there's that. Today I started to tackle another project at work, pdfs.  I came accross some Python packages, but they depend on Poppler, which runs on best on Linux.  Maybe when this mentorship concludes, I can dig into this.  I'm beginning to feel like I'm inside a Max Brooks book.
+Discussion: Unfortunately, I am no longer off on Mondays, so I couldn't meet with my mentor this morning.  We later settled on Monday evenings instead, and agreed to meet next Monday after work.  In the meantime, I've been working on Blog 2. I'm now getting the hang of markdown and adding some extra stuffs--nothing too fancy.  My pictures and emoji’s don't work in Jekyll though. I've pretty much finished the core functions I outlined, so there's that. Today I started to tackle another project at work, pdfs.  I came across some Python packages, but they depend on Poppler, which runs best on Linux.  Maybe when this mentorship concludes, I can dig into it some more.  I'm beginning to feel trapped inside a Max Brooks book.
 
 ![wwz](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/wwz.jpg)
 
-Resources: https://anaconda.org/AdrianaGarcia/npd/notebook
+Resources:
+
+https://anaconda.org/AdrianaGarcia/npd/notebook
 https://github.com/invoice-x/invoice2data
 https://poppler.freedesktop.org/
 
