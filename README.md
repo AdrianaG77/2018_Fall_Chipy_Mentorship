@@ -135,8 +135,8 @@ Discussion: Unfortunately, I am no longer off on Mondays, so I couldn't meet wit
 
 Resources:
 
-https://anaconda.org/AdrianaGarcia/npd/notebook
-https://github.com/invoice-x/invoice2data
+https://anaconda.org/AdrianaGarcia/npd/notebook<br>
+https://github.com/invoice-x/invoice2data<br>
 https://poppler.freedesktop.org/
 
 Thursday, Oct 11 ChiPy (optional)
