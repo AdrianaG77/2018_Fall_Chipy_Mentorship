@@ -145,5 +145,19 @@ Thursday, Oct 11 ChiPy (optional)
 
 Agenda: Discuss Week 5 Next Steps and Deliverables
 
+Discussion: What a difference 6 weeks make. I'm born and raised in Chicago, and each year the first sign of "Winter is Coming" still pisses me off--all broody, Jon Snow like. Why can't I live in San Diego!  Then I put my big girl pants on and remember what a great time of year this is!  Halloween is just around the corner and with it comes a plethora of creepiness. Oh, the horror! On with it.
+
+Jim and I walked through my functions.  The neat thing about modularizing code is it makes it easier to find logic flaws, plus add unit testing (note to self).  When I first started piecing together code in notebook, I found my inactive/discontinued logic was out of order.  I had to first create the data frame and group by last occurrence, than I could filter on only those records who's last occurrence was either inactive or discontinued.  Jim also mentioned adding some log files.  Something else I’d been meaning to do was add some validation to check for number of records and columns and such.  The last thing I had to implement for the core program was the NPD function and the VI function. Basically, the NPD function takes in all the data frames (active, inactive/disc, exclusions) and returns a clean list of NPD materials I can then use to calc my vitality index.  The VI function joins the NPD data frame and the purchases data frame; we do some simple math, and viola, out comes the VI.  Simple, huh?  Well that’s not the fun part, the fun part is the visualization, for next time.
+
+I also mentioned my PDF project.  Jim suggested I explore Docker, since I would need to use Linux in order to use the poppler libraries.  For sure, but it’s command line, so for now I’ll use virtual machine, but will be sampling this onion layer later.
+
+Next Steps: Start researching python viz packages
+
+Deliverables: Finish blog 2 and write the NPD and VI functions
+
+Resources:
+
+https://anaconda.org/AdrianaGarcia/npd/notebook
+
 ![To be concluded...](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/tbc.jpg)
 
