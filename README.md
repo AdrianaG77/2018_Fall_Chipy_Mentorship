@@ -158,3 +158,42 @@ https://anaconda.org/AdrianaGarcia/npd/notebook
 
 ![To be concluded...](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/tbc.jpg)
 
+# The light at the end of the tunnel 
+
+Thursday, Oct 18 Webdev Coding Workshop- Blog 2 Due
+
+Discussion: 
+
+So here we are, the second coding workshop focusing on web development.  It turns out the first workshop was indeed the general Python 101 centered event, rather than the data science one.  These workshops build upon themselves, so it makes sense to order them accordingly.  Either way, this week’s workshop was focusing on Flask.  Flask is a web development microframework for Python.  I arrived at Braintree dark and early this time, boo winter, woo hoo being on time!  Again, we were broken up into teams, with each team led by a mentor.  We worked well enough and we each had an opportunity to contribute.  I would like to see the gender dynamic change in future mentorships.  Not to generalize, but I feel the environment would be more collaborative if I wasn’t the only woman in the group each time.  We used one laptop, in this case, it was a Mac.  Let’s just say, commands are different and muscle memory is difficult to overcome, so it was a slight challenge. 
+
+Blog post 2 was due tonight.  I worked on it incrementally; so after the workshop ended, I cleaned it up a bit and submitted uneventfully.  I look forward to completing the MVP for my project, take the pressure off, and venture into more interesting topics in the next couple of weeks.  With the MVP almost done, I must keep myself motivated, lest I run out of STEAM.  Red Dead Redemption II comes out soon, so I plan on rewarding myself with game time after each milestone 😊 Whatever time techniques work!  I’m also a big fan of the Pomodoro technique for time management.
+
+Deliverables: Blog Post 2
+
+Resources:
+http://flask.pocoo.org/
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+
+### Week 8 10/22/29
+
+### Week 9 10/29/18
+
+### Week 10 11/5/18
+
+Thursday, Nov 8 ChiPy (optional)
+
+### Week 11 11/12/18
+
+Thursday, Nov 15 Data science Coding Workshop - Blog 3 Due
+
+### Week 12 11/19/18
+
+### Week 13 11/26/18
+
+### Week 14 12/3/18
+
+### Week 15 12/10/18
+
+Thursday, Dec 13 Final Presentations
+
