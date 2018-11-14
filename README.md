@@ -169,6 +169,7 @@ Blog post 2 was due tonight.  I worked on it incrementally; so after the worksho
 Deliverables: Blog Post 2
 
 Resources:
+
 http://flask.pocoo.org/<br>
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
