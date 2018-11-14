@@ -175,6 +175,16 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ### Week 8 10/22/29
 
+Agenda: Discuss Week 5 Next Steps and Deliverables
+
+Discussion: 
+
+Next Steps: Start researching python viz packages
+
+Deliverables: 
+
+Resources:
+
 ### Week 9 10/29/18
 
 ### Week 10 11/5/18
