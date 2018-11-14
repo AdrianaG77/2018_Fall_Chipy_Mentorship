@@ -183,6 +183,8 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18
 
+![The End](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/te.gif)
+
 Extra
 
 Thursday, Nov 15 Data science Coding Workshop - Blog 3 Due
