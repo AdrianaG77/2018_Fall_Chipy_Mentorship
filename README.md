@@ -173,25 +173,28 @@ Resources:
 http://flask.pocoo.org/<br>
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-### Week 8 10/22/29
+### Week 8 10/22/29 Monday, October 22th Mentor/Mentee 1-on-1
 
-Agenda: Discuss Week 5 Next Steps and Deliverables
+Agenda: Discuss Week 7 Next Steps and Deliverables
 
-Discussion: 
+Discussion: Writer's block. Ok, with that out of the way...  They say the first sentence is the most difficult to write, right?  Well at least I didn't start with “All Work and No Play Makes Jack a Dull Boy.” Ah the Shining, one of my favorites and Halloween is approaching fast.
 
-Next Steps: Start researching python viz packages
+I completed the last major functions for my project, NPD and VI. Finally, I had an almost MVP.  I used one date, a start date.  I walked Jim through my code and we discussed how to add more functionality.  Having the user enter the start date was a bit tedious, how about deriving the start date by N number of years? Yes, the user would enter the number of years they wanted to consider New Products, say 4 years, and I'd code to compute '10/01/2014.' But what if we wanted to measure the VI in a past state, say for 2016 for N Years.  For this I would need to sketch out the logic (and identify the edge cases). I'd have to think about the second part, for now, I was to concentrate on the N years issue.  
 
-Deliverables: 
+Next Steps: Logic for past state.
 
-Resources:
+Deliverables: Code N years.
 
-### Week 9 10/29/18
+Resources: 
 
-### Week 10 11/5/18
+### Week 9 10/29/18 Tuesday, October 30th Mentor/Mentee 1-on-1
+
+### Week 10 11/5/18 Thursday, November 5th Mentor/Mentee 1-on-1 (remote)
 
 Thursday, Nov 8 ChiPy (optional)
 
-### Week 11 11/12/18
+### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
+
 
 ![The End](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/te.png)
 
