@@ -191,7 +191,7 @@ Resources:
 
 ### Week 9 10/29/18 Tuesday, October 30th Mentor/Mentee 1-on-1
 
-So it finally happened; last Saturday I fell sick, fever sick. I have a strong immune system I've cultivated through expossure over the years.  It seems to have worked, as I rarly get sick.  I avoid it like the plaugue, mostly 'cause I'm a big baby.  I hate being sick, especailly fever sick.  You forget how awful you feel, it's an overall consuming malaise making it difficult to do anything beyond living. I first felt it Friday after work, I was fatigued, just exhausted. I went to bed early and woke up to bodyaches and a fever.  I was on a mission, I had to finish coding.  So I medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
+It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I'm a big baby.  I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic body functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
 
 ![Catatonic](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
 
