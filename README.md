@@ -191,7 +191,7 @@ Resources:
 
 ### Week 9 10/29/18 Tuesday, October 30th Mentor/Mentee 1-on-1
 
-Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I'm a big baby.  I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic body functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
+Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I'm a big baby.  I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic bodily functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
 
 ![Catatonic](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
 
@@ -199,7 +199,7 @@ I quickly found the package I needed, relativedelta.  In one line of code, I had
 
 &nbsp;&nbsp;&nbsp;&nbsp;start_date = (end_date - relativedelta(years=years))
 
-We ended up meeting on Tuesday rather than Monday, which I was fine by me.  It gave me more time to recover, even though I had to work on Monday.  We talked about the previous state logic, the end_date in particular, and how to filter the inactive/disc.  I had added the date filtering to my VI function, once I had the active data frame and inactive/disc dataframe.  Jim suggested I mpve it to my materials function.  Mind you, my brain was still medicated and foggy, but I new there was a reason, I could not trim the dataframes before I filered active and inactive.disc.  I would have to sketch it out some more once my brain was at 100%  In the meantime, now that my MVP was complete, I asked Jim to look at refactoring.  He suggested I move my calls into on main function and my parameters into a dictionary.  
+We ended up meeting on Tuesday rather than Monday, which was fine by me.  It gave me more time to recover, even though I had to work on Monday.  We talked about the previous state logic, the end_date in particular, and how to filter the inactive/disc.  I had added the date filtering to my VI function, once I had the active data frame and inactive/disc dataframe.  Jim suggested I move it to my materials function.  Mind you, my brain was still medicated and foggy, but I knew there was a reason I could not trim the dataframes before I filtered active and inactive/disc.  I would have to sketch it out some more once my brain was at 100%.  In the meantime, now that my MVP was complete, I asked Jim to look at refactoring.  He suggested I move my calls into a main function and my parameters into a dictionary.
 
 Next Steps: Re-sketch logic for past state.
 
