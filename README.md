@@ -177,13 +177,13 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 Agenda: Discuss Week 7 Next Steps and Deliverables
 
-Discussion: Writer's block. Ok, with that out of the way...  They say the first sentence is the most difficult to write, right?  Well at least I didn't start with “All Work and No Play Makes Jack a Dull Boy.” Ah the Shining, one of my favorites and Halloween is approaching fast.
+Discussion: Writer's block. Ok, with that out of the way...  Folks say the first sentence is the most difficult to write, right?  Well at least I didn't start with “All Work and No Play Makes Jack a Dull Boy.” Ah the Shining, one of my favorites and Halloween is approaching fast.
 
 ![The Shining](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/shining.jpg)
 
-I completed the last major functions for my project, NPD and VI. Finally, I had an almost MVP.  I used one date, a start date.  I walked Jim through my code and we discussed how to add more functionality.  Having the user enter the start date was a bit tedious, how about deriving the start date by N number of years? Yes, the user would enter the number of years they wanted to consider New Products, say 4 years, and I'd code to compute '10/01/2014.' But what if we wanted to measure the VI in a past state, say for 2016 for N Years.  For this I would need to sketch out the logic (and identify the edge cases). I'd have to think about the second part.  For now, I was to concentrate on the N years issue.  
+I completed the last major functions for my project, NPD and VI. Finally, I had an almost MVP.  I used one date, a start date.  I walked Jim through my code and we discussed how to add more functionality.  Having the user enter the start date was a bit tedious, how about deriving the start date by N number of years? Yes, the user would enter the number of years they wanted to consider New Products, say 4 years, and I'd code to compute '10/01/2014' for VI through Q3 2018. But what if we wanted to measure the VI in a past state, say for 2016 for N Years.  For this I would need to sketch out the logic (and identify the edge cases). I'd have to think about the second part.  For now, I was to concentrate on the N years issue.  
 
-Next Steps: Logic for past state.
+Next Steps: Sketch logic for past state.
 
 Deliverables: Code N years.
 
