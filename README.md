@@ -230,6 +230,8 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
 
+Agenda: Discuss Week 10 Next Steps and Deliverables
+
 Discussion: With my MVP complete we spent today's session discussing types of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD versus all sales over time, and figured I'd most likely use a stacked bar chart but wanted to research some other options. It's a shame the only geospatial data I had was 3-digit zipcodes.  These would be difficult to plot, but I'd leave that to future exploration.  For now, I had to focus on learning the ins and outs of Python's visualization packages.  I would be out of town next week for Thanksgiving, so my time would be limited. 
 
 Next Steps: Learn Python visualization packages
