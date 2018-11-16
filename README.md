@@ -191,7 +191,7 @@ Resources:
 
 ### Week 9 10/29/18 Tuesday, October 30th Mentor/Mentee 1-on-1
 
-Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I'm a big baby.  I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic bodily functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I settled into a catatonic state, medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
+Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic bodily functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I settled into a catatonic state, medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
 
 ![Catatonic](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
 
@@ -216,7 +216,7 @@ Discussion: Today was the last day of early voting.  I arrived at my polling pla
 ![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/vote.jpg)
 
 I took all 3 file-path variables out of the functions along with the rest of my variables and moved them to the top of the program.
-I ended up returning my calls after each function, since I couldn’t get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out my functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamically typed language rather than statically typed language like Java.   I sketched out the past state logic and confirmed my initial suspicion. 
+I ended up returning my function calls after each function, since I couldn’t get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out my functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamically typed language rather than statically typed language like Java.   I sketched out the past state logic and confirmed my initial suspicion. 
 
 Next Steps: Think about what and how I'd like to visualize this data.
 
@@ -226,7 +226,7 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
 
-Discussion: With my MVP complete we spent today's session discussing types of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD versus all sales over time, and figured I'd most likely use a stacked bar chart but wanted to research some other options.  
+Discussion: With my MVP complete we spent today's session discussing types of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD versus all sales over time, and figured I'd most likely use a stacked bar chart but wanted to research some other options. It's a shame the only geospatial data I had was 3-digit zipcodes.  These would be a pain to plot, but it I'd leave that to future exploration.  For now, I had to focus on learning the ins and outs of Pythons visualization packages.  I would be out of town next week for Thanksgiving, so my time would be limited. 
 
 Next Steps: Learn Python visualization packages
 
