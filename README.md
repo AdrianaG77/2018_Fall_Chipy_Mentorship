@@ -209,7 +209,7 @@ Resources:
 
 ### Week 10 11/5/18 Thursday, November 5th Mentor/Mentee 1-on-1 (remote)
 
-![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
+![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/vote.jpg)
 
 Thursday, Nov 8 ChiPy (optional)
 
