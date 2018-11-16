@@ -199,7 +199,7 @@ I quickly found the package I needed, relativedelta.  In one line of code, I had
 
 &nbsp;&nbsp;&nbsp;&nbsp;start_date = (end_date - relativedelta(years=years))
 
-We ended up meeting on Tuesday rather than Monday, which was fine by me.  It gave me more time to recover, even though I had to work on Monday.  We talked about the previous state logic, the end_date in particular, and how to filter the inactive/disc.  I had added the date filtering to my VI function, once I had the active data frame and inactive/disc dataframe.  Jim suggested I move it to my materials function.  Mind you, my brain was still medicated and foggy, but I knew there was a reason I could not trim the dataframes before I filtered active and inactive/disc.  I would have to sketch it out some more once my brain was at 100%.  In the meantime, now that my MVP was complete, I asked Jim to look at refactoring.  He suggested I move my calls into a main function and my parameters into a dictionary.
+We ended up meeting on Tuesday rather than Monday, which was fine by me.  It gave me more time to recover, even though I had to work on Monday.  We talked about the previous state logic, the end_date in particular, and how to filter the inactive/disc.  I had added the date filtering to my VI function, once I had the active data frame and inactive/disc dataframe.  Jim suggested I move it to my materials function.  Mind you, my brain was still medicated and foggy, but I knew there was a reason I could not trim the materials dataframe before I filtered active and inactive/disc.  I would have to sketch it out some more once my brain was at 100%.  In the meantime, now that my MVP was complete, I asked Jim to look at refactoring.  He suggested I move my calls into a main function and my parameters into a dictionary.
 
 Next Steps: Re-sketch logic for past state.
 
@@ -208,6 +208,8 @@ Deliverables: Get refactor to work
 Resources: 
 
 ### Week 10 11/5/18 Thursday, November 5th Mentor/Mentee 1-on-1 (remote)
+
+![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
 
 Thursday, Nov 8 ChiPy (optional)
 
