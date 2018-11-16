@@ -226,8 +226,7 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
 
-Discussion: With my MVP complete we spent today's session discussion type of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD says versus all sales over time, and figured I'd most likely used a stacked bar chart but wanted to research some options.
-Next Steps: Think about what and how I'd like to visualize this data.
+Discussion: With my MVP complete we spent today's session discussing types of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD versus all sales over time, and figured I'd most likely use a stacked bar chart but wanted to research some other options.  
 
 Next Steps: Learn Python visualization packages
 
