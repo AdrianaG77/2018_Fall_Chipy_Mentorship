@@ -211,14 +211,14 @@ Resources:
 
 ### Week 10 11/5/18 Thursday, Thursday 8th Mentor/Mentee 1-on-1 (remote)
 
-Discussion: Today was the last day of early voting.  I arrived at my polling place a little before 4:30 pm.  I did not expect to see the long line, which wrapped around the inside perimeter of the McFetrige Sports Center.  It was unlikely I'd be able to make our meeting, and I was right, it was two hours before I was done voting--but it was worth it!  We settled on a remote session on Thursday. 
+Discussion: Today was the last day of early voting.  I arrived at my polling place a little before 4:30 pm.  I did not expect to see the long line, which wrapped around the inside perimeter of the McFetridge Sports Center.  It was unlikely I'd be able to make our meeting, and I was right, it was two hours before I was done voting--but it was worth it!  We settled on a remote session on Thursday. 
 
 ![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/vote.jpg)
 
 I took all 3 file-path variables out of the functions along with the rest of my variables and moved them to the top of the program.
-I ended up returnig my calls after each function, since I could't get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out my functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamicly typed language rather than statically typed language like Java.   I sketched out the past state logic and confirmed my initial suspicion. 
+I ended up returning my calls after each function, since I couldn’t get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out my functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamically typed language rather than statically typed language like Java.   I sketched out the past state logic and confirmed my initial suspicion. 
 
-Next Steps: Think about what and how I'd like to vizualize this data.
+Next Steps: Think about what and how I'd like to visualize this data.
 
 Deliverables: Code past state
 
@@ -226,7 +226,15 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
 
-Discussion:
+Discussion: With my MVP complete we spent today's session discussion type of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD says versus all sales over time, and figured I'd most likely used a stacked bar chart but wanted to research some options.
+Next Steps: Think about what and how I'd like to visualize this data.
+
+Next Steps: Learn Python visualization packages
+
+Deliverables: Make some plots
+
+Resources:
+https://flowingdata.com/2009/11/25/9-ways-to-visualize-proportions-a-guide/
 
 ![The End](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/te.png)
 
