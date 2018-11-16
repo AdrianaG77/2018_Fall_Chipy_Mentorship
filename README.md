@@ -207,9 +207,18 @@ Deliverables: Get refactor to work
 
 Resources: 
 
-### Week 10 11/5/18 Thursday, November 5th Mentor/Mentee 1-on-1 (remote)
+### Week 10 11/5/18 Thursday, Thursday 8th Mentor/Mentee 1-on-1 (remote)
+
+Discussion: Today, Monday, was the last day of early voting.  I arrived at my polling place a little before 4:30 pm.  I did not expect to see the long line, which wrapped around the inside perimeter of the McFetrige Sports Center.  It was unlikely I'd be able to make our meeting, and I was right, it was two hours before I was done voting--but it was worth it!  We settled on a remote meeting on Thursday. 
 
 ![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/vote.jpg)
+
+I took all 3 file-path variables out of the functions along with the rest of my variables and moved them to the top of the program.
+I ended up returnig my calls after each function, since I could't get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamicly typed language rather than statically typed language like Java.   I sketched out the past state logic and I confirmed my initial suspicion. 
+
+Next Steps: Think about what and how I'd like to vizualize this data.
+
+Deliverables: Code past state
 
 Thursday, Nov 8 ChiPy (optional)
 
