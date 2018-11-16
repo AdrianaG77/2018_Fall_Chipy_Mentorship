@@ -191,6 +191,8 @@ Resources:
 
 ### Week 9 10/29/18 Tuesday, October 30th Mentor/Mentee 1-on-1
 
+Agenda: Discuss Week 8 Next Steps and Deliverables
+
 Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic bodily functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I settled into a catatonic state, medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
 
 ![Catatonic](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
@@ -211,6 +213,8 @@ Resources:
 
 ### Week 10 11/5/18 Thursday, Thursday 8th Mentor/Mentee 1-on-1 (remote)
 
+Agenda: Discuss Week 9 Next Steps and Deliverables
+
 Discussion: Today was the last day of early voting.  I arrived at my polling place a little before 4:30 pm.  I did not expect to see the long line, which wrapped around the inside perimeter of the McFetridge Sports Center.  It was unlikely I'd be able to make our meeting, and I was right, it was two hours before I was done voting--but it was worth it!  We settled on a remote session on Thursday. 
 
 ![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/vote.jpg)
@@ -226,7 +230,7 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
 
-Discussion: With my MVP complete we spent today's session discussing types of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD versus all sales over time, and figured I'd most likely use a stacked bar chart but wanted to research some other options. It's a shame the only geospatial data I had was 3-digit zipcodes.  These would be a pain to plot, but it I'd leave that to future exploration.  For now, I had to focus on learning the ins and outs of Pythons visualization packages.  I would be out of town next week for Thanksgiving, so my time would be limited. 
+Discussion: With my MVP complete we spent today's session discussing types of visualizations.  The simplest thing to start with would be to plot the VI for the past N years in a line graph.  Hmm, not too exciting.  I wanted to plot NPD versus all sales over time, and figured I'd most likely use a stacked bar chart but wanted to research some other options. It's a shame the only geospatial data I had was 3-digit zipcodes.  These would be difficult to plot, but I'd leave that to future exploration.  For now, I had to focus on learning the ins and outs of Python's visualization packages.  I would be out of town next week for Thanksgiving, so my time would be limited. 
 
 Next Steps: Learn Python visualization packages
 
