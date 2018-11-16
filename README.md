@@ -162,7 +162,7 @@ https://anaconda.org/AdrianaGarcia/npd/notebook
 
 Thursday, Oct 18 Webdev Coding Workshop- Blog 2 Due
 
-Discussion: So here we are, the second coding workshop focusing on web development.  It turns out the first workshop was indeed the general Python 101 centered event, rather than the data science one.  These workshops build upon themselves, so it makes sense to order them accordingly.  Either way, this week’s workshop was focusing on Flask.  Flask is a web development microframework for Python.  I arrived at Braintree dark and early this time, boo winter, woo hoo being on time!  Again, we were broken up into teams, with each team led by a mentor.  We worked well enough and we each had an opportunity to contribute.  I would like to see the gender dynamic change in future mentorships.  Not to generalize, but I feel the environment would be more collaborative if I wasn’t the only woman in the group each time.  We used one laptop, in this case, it was a Mac.  Let’s just say, commands are different and muscle memory is difficult to overcome, so it was a slight challenge. 
+Discussion: The second coding workshop focused on web development.  It turns out the first workshop was indeed the general Python 101 centered event, rather than the data science one.  These workshops build upon themselves, so it makes sense to order them accordingly.  Either way, this week’s workshop was focusing on Flask.  Flask is a web development microframework for Python.  I arrived at Braintree dark and early this time, boo winter, woo hoo being on time!  Again, we were broken up into teams, with each team led by a mentor.  We worked well enough and we each had an opportunity to contribute.  I would like to see the gender dynamic change in future mentorships.  Not to generalize, but I feel the environment would be more collaborative if I wasn’t the only woman in the group each time.  We used one laptop, in this case a Mac.  Let’s just say, commands are different and muscle memory is difficult to overcome, it was a slight challenge. 
 
 Blog post 2 was due tonight.  I worked on it incrementally; so after the workshop ended, I cleaned it up a bit and submitted uneventfully.  I look forward to completing the MVP for my project, take the pressure off, and venture into more interesting topics in the next couple of weeks.  With the MVP almost done, I must keep myself motivated, lest I run out of STEAM.  Red Dead Redemption II comes out soon, so I plan on rewarding myself with game time after each milestone 😊 Whatever time techniques work!  I’m also a big fan of the Pomodoro technique for time management.
 
@@ -191,15 +191,17 @@ Resources:
 
 ### Week 9 10/29/18 Tuesday, October 30th Mentor/Mentee 1-on-1
 
-Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I'm a big baby.  I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic bodily functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
+Discussion: It finally happened; last Saturday I fell sick, fever sick. I have a strong immune system, cultivated over the years through deliberate exposure; I am an anti-germaphobe.  It seems to have worked, I rarely get sick.  I avoid it like the plague, mostly ‘cause I'm a big baby.  I hate being sick, especially fever sick.  I forgot how awful it feels, it's an overall consuming malaise making it difficult to do anything beyond basic bodily functions.  I first felt it Friday after work, I was fatigued, exhausted. I went to bed early and woke up to body aches and a fever.  I was on a mission, I had to finish coding.  I settled into a catatonic state, medicated, sat, hydrated and waited it out...all...day...long.  When I woke Sunday, my fever had broken.
 
 ![Catatonic](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/catatonic.jpg)
 
-I quickly found the package I needed, relativedelta.  In one line of code, I had what I needed 
+I got to work and quickly found the package I needed, relativedelta.  In one line of code, I had what I needed 
 
 &nbsp;&nbsp;&nbsp;&nbsp;start_date = (end_date - relativedelta(years=years))
 
 We ended up meeting on Tuesday rather than Monday, which was fine by me.  It gave me more time to recover, even though I had to work on Monday.  We talked about the previous state logic, the end_date in particular, and how to filter the inactive/disc.  I had added the date filtering to my VI function, once I had the active data frame and inactive/disc dataframe.  Jim suggested I move it to my materials function.  Mind you, my brain was still medicated and foggy, but I knew there was a reason I could not trim the materials dataframe before I filtered active and inactive/disc.  I would have to sketch it out some more once my brain was at 100%.  In the meantime, now that my MVP was complete, I asked Jim to look at refactoring.  He suggested I move my calls into a main function and my parameters into a dictionary.
+
+Happy Halloween!
 
 Next Steps: Re-sketch logic for past state.
 
@@ -209,12 +211,12 @@ Resources:
 
 ### Week 10 11/5/18 Thursday, Thursday 8th Mentor/Mentee 1-on-1 (remote)
 
-Discussion: Today, Monday, was the last day of early voting.  I arrived at my polling place a little before 4:30 pm.  I did not expect to see the long line, which wrapped around the inside perimeter of the McFetrige Sports Center.  It was unlikely I'd be able to make our meeting, and I was right, it was two hours before I was done voting--but it was worth it!  We settled on a remote meeting on Thursday. 
+Discussion: Today was the last day of early voting.  I arrived at my polling place a little before 4:30 pm.  I did not expect to see the long line, which wrapped around the inside perimeter of the McFetrige Sports Center.  It was unlikely I'd be able to make our meeting, and I was right, it was two hours before I was done voting--but it was worth it!  We settled on a remote session on Thursday. 
 
 ![Vote](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/vote.jpg)
 
 I took all 3 file-path variables out of the functions along with the rest of my variables and moved them to the top of the program.
-I ended up returnig my calls after each function, since I could't get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamicly typed language rather than statically typed language like Java.   I sketched out the past state logic and I confirmed my initial suspicion. 
+I ended up returnig my calls after each function, since I could't get the main function to work.  I kept getting variable scope issues. After some troubleshooting with Jim, he pointed out my functions and the resulting dataframes were named the same, which Python allowed.  I guess that's the danger of a dynamicly typed language rather than statically typed language like Java.   I sketched out the past state logic and confirmed my initial suspicion. 
 
 Next Steps: Think about what and how I'd like to vizualize this data.
 
@@ -224,6 +226,7 @@ Thursday, Nov 8 ChiPy (optional)
 
 ### Week 11 11/12/18 Monday, November 12th Mentor/Mentee 1-on-1
 
+Discussion:
 
 ![The End](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/te.png)
 
