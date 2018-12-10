@@ -154,7 +154,7 @@ Deliverables: Finish blog 2 and write the NPD and VI functions
 
 Resources:
 
-https://anaconda.org/AdrianaGarcia/npd/notebook
+https://anaconda.org/AdrianaGarcia/notebooks
 
 ![To be concluded...](https://github.com/AdrianaG77/2018_Fall_Chipy_Mentorship/blob/master/tbc.jpg)
 
